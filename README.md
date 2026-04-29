@@ -4,6 +4,7 @@ I enjoy building clean, efficient tools using **Python**. Currently, I'm focusin
 
 - 🔭 **Current Project:** Building a pure-Python log analytics engine.
 - ⚡ **Fun Fact:** I prefer the Python Standard Library over bulky frameworks whenever possible.
+- :zap: **Languages:** Python, Bash, SQL, PL/SQL, JavaScript
 - 📫 How to reach me ...jrdurango28@gmail.com
 - [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobe-acrobat-reader)](./durangoResumeMar2026b.pdf)
 <!---
